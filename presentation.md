@@ -6,20 +6,76 @@ enableSearch: false
 enableChalkboard: false
 ---
 
-## Acessibilidade
+## Acessibilidade Web
 
 ![](https://blog.handtalk.me/wp-content/uploads/2018/06/capa-blog-post-acessibilidade-na-web.png){width=60%}
 
 ---
 
-## External 1.1
+### O que é acessibilidade?
 
-Content 1.1
-
-Note: This will only appear in the speaker notes window.
+- Deixar seu site usável para todos
+- Benefícios do site ser acessível
 
 ---
 
-## External 1.2
+### Tipos de deficiências
 
-Content 1.2
+- Pessoas com problemas visuais
+- Pessoas com roblemas de audição
+- Pessoas com deficiência motora
+- Pessoas com deficiência cognitivas
+
+---
+
+### HTML semântico
+
+- Aumenta SEO da página
+- Mais legível para outros devs
+- Melhora a leitura do screen reader
+- A importância do uso de ARIA
+
+---
+
+### Dicas de código
+
+- Colocar alt em todas imagens
+- Possibilidade de aumento de fonte
+- Usar aria-label
+- Usar outline nos botões
+
+---
+
+### Dicas de código 2
+
+- Colocar maiusculo/minusculo no css
+- Usar uma linguagem limpa
+- Deixar controles de UI
+- Não se basear somente em cores
+
+---
+
+### Ferramentas de desenvolvimento
+
+- Live caption da google
+- Live Transcribe
+- Lighthouse
+- AccessLint
+
+---
+
+### Leitores de textos
+
+- JAWS, Dolphin, NVDA, Narrator (windows)
+- ChromeVox (Chrome)
+- Orca (Linux)
+- VoiceOver (macOS, iOS)
+- TalkBack (Android)
+
+---
+
+### Mitos sobre acessibilidade
+
+- Trabalho extra
+- Demora muito tempo pra fazer
+- Precisa ser 100% acessível
