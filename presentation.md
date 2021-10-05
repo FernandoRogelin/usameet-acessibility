@@ -25,7 +25,8 @@ enableChalkboard: false
 - Pessoas com roblemas de audição
 - Pessoas com deficiência motora
 - Pessoas com deficiência cognitivas
-- Exemplo real de exclusão por falta de acessibilidade
+- [Exemplo real](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/block-v1:W3Cx+WAI0.1x+3T2019+type@sequential+block@6f00d58b3fc34f6f918eac90bb1e165a/block-v1:W3Cx+WAI0.1x+3T2019+type@vertical+block@6d8f7592db9a4de99fb2d6133bf2768c)
+
 
 ---
 
@@ -56,16 +57,6 @@ enableChalkboard: false
 
 ---
 
-### Dicas de Design
-
-- Cores (intensidade, quantidade)
-- Texto (fonte, tamanho, espaçamento, altura de linha, quebra)
-- Imagens (consumo de recurso)
-- Texto de botões e links
-- Efeitos e animações
-
----
-
 ### Ferramentas de desenvolvimento
 
 - Live caption da google
@@ -85,8 +76,18 @@ enableChalkboard: false
 
 ---
 
+### Reflexões de Design
+
+- [Vídeo](http://www.culturepub.fr/videos/edf-diversite/)
+- Cores (intensidade, quantidade)
+- Texto (fonte, tamanho, espaçamento, altura de linha, quebra)
+- Imagens (consumo de recurso)
+- Texto de botões e links
+- Efeitos e animações
+
+---
+
 ### Mitos sobre acessibilidade
-- Vídeo sobre Design - http://www.culturepub.fr/videos/edf-diversite/
 - Trabalho extra
 - Demora muito tempo pra fazer
 - Precisa ser 100% acessível
