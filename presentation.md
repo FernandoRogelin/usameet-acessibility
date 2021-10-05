@@ -25,6 +25,7 @@ enableChalkboard: false
 - Pessoas com roblemas de audição
 - Pessoas com deficiência motora
 - Pessoas com deficiência cognitivas
+- Exemplo real de exclusão por falta de acessibilidade
 
 ---
 
@@ -55,6 +56,16 @@ enableChalkboard: false
 
 ---
 
+### Dicas de Design
+
+- Cores (intensidade, quantidade)
+- Texto (fonte, tamanho, espaçamento, altura de linha, quebra)
+- Imagens (consumo de recurso)
+- Texto de botões e links
+- Efeitos e animações
+
+---
+
 ### Ferramentas de desenvolvimento
 
 - Live caption da google
@@ -74,13 +85,6 @@ enableChalkboard: false
 
 ---
 
-## Desenvolvimento Acessível 1.2
-
-Uso correto do HTML
-
-A importância do uso de ARIA
-
----
 ### Mitos sobre acessibilidade
 - Vídeo sobre Design - http://www.culturepub.fr/videos/edf-diversite/
 - Trabalho extra
