@@ -6,24 +6,71 @@ enableSearch: false
 enableChalkboard: false
 ---
 
-## Acessibilidade
+## Acessibilidade Web
 
 ![](https://blog.handtalk.me/wp-content/uploads/2018/06/capa-blog-post-acessibilidade-na-web.png){width=60%}
 
 ---
 
-## Introdução
+### O que é acessibilidade?
 
-O que é acessibilidade
+- Deixar seu site usável para todos
+- Benefícios do site ser acessível
 
-Tipos de deficiências
+---
 
-Ferramentas e casos de uso
+### Tipos de deficiências
 
-Casos reais
+- Pessoas com problemas visuais
+- Pessoas com roblemas de audição
+- Pessoas com deficiência motora
+- Pessoas com deficiência cognitivas
 
+---
 
-Note: This will only appear in the speaker notes window.
+### HTML semântico
+
+- Aumenta SEO da página
+- Mais legível para outros devs
+- Melhora a leitura do screen reader
+- A importância do uso de ARIA
+
+---
+
+### Dicas de código
+
+- Colocar alt em todas imagens
+- Possibilidade de aumento de fonte
+- Usar aria-label
+- Usar outline nos botões
+
+---
+
+### Dicas de código 2
+
+- Colocar maiusculo/minusculo no css
+- Usar uma linguagem limpa
+- Deixar controles de UI
+- Não se basear somente em cores
+
+---
+
+### Ferramentas de desenvolvimento
+
+- Live caption da google
+- Live Transcribe
+- Lighthouse
+- AccessLint
+
+---
+
+### Leitores de textos
+
+- JAWS, Dolphin, NVDA, Narrator (windows)
+- ChromeVox (Chrome)
+- Orca (Linux)
+- VoiceOver (macOS, iOS)
+- TalkBack (Android)
 
 ---
 
@@ -33,15 +80,9 @@ Uso correto do HTML
 
 A importância do uso de ARIA
 
-
-### Links
-
-Este vídeo ilustra o que gostaríamos de enfatizar aqui:
-Não se trata das habilidades ou deficiências de uma pessoa, mas do design.
-Ou seja, um design ruim é desmarcador.
-Quando os designs (e o código) fornecem a flexibilidade para atender a todas as necessidades dos usuários, eles estão ativando.
-(Isso geralmente é chamado de "modelo social" de deficiência.)
-
-A deficiência é causada por uma incompatibilidade entre o design e a pessoa. 
-
-http://www.culturepub.fr/videos/edf-diversite/
+---
+### Mitos sobre acessibilidade
+- Vídeo sobre Design - http://www.culturepub.fr/videos/edf-diversite/
+- Trabalho extra
+- Demora muito tempo pra fazer
+- Precisa ser 100% acessível
