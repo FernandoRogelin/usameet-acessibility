@@ -19,14 +19,30 @@ enableChalkboard: false
 
 ---
 
+### Os 4 Princípios da acessibilidade
+<style> 
+  .tela__principios {text-align:left;} 
+  p {line-height:18px;} 
+  </style>
+<div class="tela__principios">
+Segundo o documento WCAG (Web Content Accessibility Guidelines), as diretrizes e critérios de sucesso são organizados em torno de 4 princípios, que estabelecem a base necessária para que qualquer indivíduo possa acessar e utilizar um conteúdo na rede(www).
+
+Estes são:
+
+- Perceptível
+- Operável
+- Compreensível 
+- Robusto
+</div>
+---
+
 ### Tipos de deficiências
 
 - Pessoas com problemas visuais
-- Pessoas com roblemas de audição
+- Pessoas com problemas de audição
 - Pessoas com deficiência motora
 - Pessoas com deficiência cognitivas
 - [Exemplo real](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/block-v1:W3Cx+WAI0.1x+3T2019+type@sequential+block@6f00d58b3fc34f6f918eac90bb1e165a/block-v1:W3Cx+WAI0.1x+3T2019+type@vertical+block@6d8f7592db9a4de99fb2d6133bf2768c)
-
 
 ---
 
