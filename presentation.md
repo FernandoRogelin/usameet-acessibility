@@ -14,7 +14,7 @@ enableChalkboard: false
 
 ### O que é acessibilidade?
 
-- Deixar seu site usável para todos
+- Deixar seu site acessível para todos
 - Benefícios do site ser acessível
 
 ---
@@ -104,6 +104,7 @@ Estes são:
 ---
 
 ### Mitos sobre acessibilidade
+
 - Trabalho extra
 - Demora muito tempo pra fazer
 - Precisa ser 100% acessível
