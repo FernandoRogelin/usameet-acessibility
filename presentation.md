@@ -20,6 +20,7 @@ enableChalkboard: false
 ---
 
 ### Os 4 Princípios da acessibilidade
+
 <style> 
   .tela__principios {text-align:left;} 
   p {line-height:18px;} 
@@ -31,9 +32,10 @@ Estes são:
 
 - Perceptível
 - Operável
-- Compreensível 
+- Compreensível
 - Robusto
 </div>
+
 ---
 
 ### Tipos de deficiências
